@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>https://www.insighthomedecor.com</loc>
+  <priority>0.9</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2025-03-19</lastmod>
+</url>
+
+<url>
+  <loc>https://www.insighthomedecor.com/LivingRoom/sitemap.xml</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2025-03-19</lastmod>
+</url>
+<url>
+  <loc>https://www.insighthomedecor.com/ModularKitchen/sitemap.xml</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2025-03-19</lastmod>
+</url>
+
+<url>
+  <loc>https://www.insighthomedecor.com/Bedroom/sitemap.xml</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2025-03-19</lastmod>
+</url>
+
+<url>
+  <loc>https://www.insighthomedecor.com/Wardrobe/sitemap.xml</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2025-03-19</lastmod>
+</url>
+
+<url>
+  <loc>https://www.insighthomedecor.com/Construction/sitemap.xml</loc>
+  <priority>0.9</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2025-03-19</lastmod>
+</url>
+<url>
+  <loc>https://www.insighthomedecor.com/Bathroom/sitemap.xml</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2025-03-19</lastmod>
+</url>
+
+
+
+
+</urlset>
